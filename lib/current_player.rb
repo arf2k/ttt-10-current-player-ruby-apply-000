@@ -1,5 +1,3 @@
-counter = 0
-def turn_count(array)
-  array.each 
-  counter += 1
+def turn_count(board)
+  
 end
