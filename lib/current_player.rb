@@ -3,5 +3,5 @@ def turn_count(board)
 end
 
 turns = 0 
-board.each do 
+board.each do |token|
   if 
