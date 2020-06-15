@@ -8,4 +8,4 @@ board.each do |marker|
     turns += 1 
   end
 end 
-turns 
+
