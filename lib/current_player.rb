@@ -3,7 +3,7 @@ def turn_count(board)
 end
 
 turns = 0 
-board.each do |marker|
+board1.each do |marker|
   if marker == "X" || marker == "O"
     turns += 1 
   end
