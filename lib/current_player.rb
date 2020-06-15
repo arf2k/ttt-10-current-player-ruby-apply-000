@@ -1,3 +1,3 @@
 def turn_count(array)
-  array.each { |turn| != ""}
-  
+  array.each { |turn| != " "}
+end
