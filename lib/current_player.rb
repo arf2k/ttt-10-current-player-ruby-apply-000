@@ -1,2 +1,2 @@
-def turn_count(board_array)
+def turn_count(array)
   
